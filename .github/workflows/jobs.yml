@@ -1,0 +1,40 @@
+name: Job monitor
+
+on:
+  schedule:
+    # GitHub scheduled workflows can be delayed; every 30 min is enough for career pages.
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-monitor
+  cancel-in-progress: true
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run job monitor
+        run: python monitor.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: Commit updated state
+        run: |
+          git config user.name "job-monitor-bot"
+          git config user.email "job-monitor-bot@users.noreply.github.com"
+          git add jobs_state.json
+          git diff --cached --quiet || git commit -m "Update job monitor state"
+          git push
