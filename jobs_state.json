@@ -1,7 +1,7 @@
 {
   "companies": {
     "ARM": {
-      "last_checked_epoch": 1783375205,
+      "last_checked_epoch": 1783379949,
       "last_count": 8,
       "last_error": null,
       "seen_ids": [
@@ -16,7 +16,7 @@
       ]
     },
     "Apple": {
-      "last_checked_epoch": 1783375310,
+      "last_checked_epoch": 1783379954,
       "last_count": 15,
       "last_error": null,
       "seen_ids": [
@@ -38,7 +38,7 @@
       ]
     },
     "Capgemini Engineering": {
-      "last_checked_epoch": 1783375308,
+      "last_checked_epoch": 1783379951,
       "last_count": 20,
       "last_error": null,
       "seen_ids": [
@@ -65,9 +65,9 @@
       ]
     },
     "IDEMIA": {
-      "last_checked_epoch": 1783375308,
+      "last_checked_epoch": 1783379950,
       "last_count": 25,
-      "last_error": "IDEMIA: ConnectTimeout: HTTPSConnectionPool(host='careers.idemia.com', port=443): Max retries exceeded with url: /search/?createNewAlert=false&q=&locationsearch=france&optionsFacetsDD_city=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3= (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.idemia.com', port=443) at 0x7f2d76def590>, 'Connection to careers.idemia.com timed out. (connect timeout=30)'))",
+      "last_error": null,
       "seen_ids": [
         "1fbca350156f939b",
         "26f7207eff0b071b",
@@ -97,7 +97,7 @@
       ]
     },
     "IN Groupe": {
-      "last_checked_epoch": 1783375311,
+      "last_checked_epoch": 1783379954,
       "last_count": 21,
       "last_error": null,
       "seen_ids": [
@@ -125,7 +125,7 @@
       ]
     },
     "Microchip": {
-      "last_checked_epoch": 1783375309,
+      "last_checked_epoch": 1783379952,
       "last_count": 13,
       "last_error": null,
       "seen_ids": [
@@ -145,7 +145,7 @@
       ]
     },
     "STMicroelectronics": {
-      "last_checked_epoch": 1783375313,
+      "last_checked_epoch": 1783379957,
       "last_count": 10,
       "last_error": null,
       "seen_ids": [
@@ -162,7 +162,7 @@
       ]
     },
     "Secure-IC": {
-      "last_checked_epoch": 1783375309,
+      "last_checked_epoch": 1783379953,
       "last_count": 10,
       "last_error": null,
       "seen_ids": [
@@ -180,5 +180,5 @@
     }
   },
   "initialized": true,
-  "last_checked_epoch": 1783375313
+  "last_checked_epoch": 1783379957
 }
