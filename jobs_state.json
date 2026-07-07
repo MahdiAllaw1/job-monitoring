@@ -1,7 +1,7 @@
 {
   "companies": {
     "ARM": {
-      "last_checked_epoch": 1783387195,
+      "last_checked_epoch": 1783403338,
       "last_count": 8,
       "last_error": null,
       "seen_ids": [
@@ -16,7 +16,7 @@
       ]
     },
     "Apple": {
-      "last_checked_epoch": 1783387198,
+      "last_checked_epoch": 1783403342,
       "last_count": 15,
       "last_error": null,
       "seen_ids": [
@@ -38,7 +38,7 @@
       ]
     },
     "Capgemini Engineering": {
-      "last_checked_epoch": 1783387196,
+      "last_checked_epoch": 1783403340,
       "last_count": 20,
       "last_error": null,
       "seen_ids": [
@@ -65,7 +65,7 @@
       ]
     },
     "IDEMIA": {
-      "last_checked_epoch": 1783387196,
+      "last_checked_epoch": 1783403339,
       "last_count": 25,
       "last_error": null,
       "seen_ids": [
@@ -83,12 +83,12 @@
         "62e549bd766dab71",
         "797ab4a99adda2ed",
         "808db3f6c1aee9d1",
+        "86e6018b4e66584e",
         "9af2ec4e409f2ad5",
         "aa6dad172dd17972",
         "b8cc6da806a3ea0e",
         "b95184d31167446d",
         "c0da07519be428d7",
-        "cf252f2dd7d33611",
         "d85078c470859983",
         "de23c3000975a7c3",
         "eefa404e77f75284",
@@ -97,7 +97,7 @@
       ]
     },
     "IN Groupe": {
-      "last_checked_epoch": 1783387199,
+      "last_checked_epoch": 1783403342,
       "last_count": 21,
       "last_error": null,
       "seen_ids": [
@@ -125,7 +125,7 @@
       ]
     },
     "Microchip": {
-      "last_checked_epoch": 1783387197,
+      "last_checked_epoch": 1783403340,
       "last_count": 13,
       "last_error": null,
       "seen_ids": [
@@ -145,7 +145,7 @@
       ]
     },
     "STMicroelectronics": {
-      "last_checked_epoch": 1783387200,
+      "last_checked_epoch": 1783403343,
       "last_count": 10,
       "last_error": null,
       "seen_ids": [
@@ -162,7 +162,7 @@
       ]
     },
     "Secure-IC": {
-      "last_checked_epoch": 1783387198,
+      "last_checked_epoch": 1783403341,
       "last_count": 10,
       "last_error": null,
       "seen_ids": [
@@ -180,5 +180,5 @@
     }
   },
   "initialized": true,
-  "last_checked_epoch": 1783387200
+  "last_checked_epoch": 1783403343
 }
