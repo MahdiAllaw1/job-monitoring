@@ -1,0 +1,86 @@
+# Job monitor sources.
+# No technical keyword filtering is applied. Each URL should be filtered on the career site as much as possible.
+# Use `urls:` when one company has multiple pages.
+
+companies:
+  - name: ARM
+    adapter: arm
+    url: "https://careers.arm.com/location/france-jobs/34601/3017382/2"
+    # ARM has a changing "Jobs for You" recommendation block after the real France results.
+    ignore_after_markers:
+      - "Jobs for You"
+      - "Suggested jobs"
+      - "Previously viewed jobs"
+      - "Saved jobs"
+
+  - name: IDEMIA
+    adapter: auto
+    urls:
+      - "https://careers.idemia.com/search/?createNewAlert=false&q=&locationsearch=france&optionsFacetsDD_city=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3="
+      - "https://careers.idemia.com/search/?q=&locationsearch=france&startrow=25"
+
+  - name: Capgemini Engineering
+    adapter: browser
+    url: "https://www.capgemini.com/fr-fr/carrieres/rejoignez-nous/nos-offres-demploi/?page=1&size=11&country_code=fr-fr&brand=Capgemini+Engineering&experience_level=Etudiants%2F+Jeunes+dipl%C3%B4m%C3%A9s&contract_type=CDI"
+
+  - name: Microchip
+    adapter: workday
+    url: "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External?locationCountry=54c5b6971ffb4bf0b116fe7651ec789a"
+    workday:
+      host: "https://wd5.myworkdaysite.com"
+      tenant: "microchiphr"
+      site: "External"
+      facets:
+        locationCountry:
+          - "54c5b6971ffb4bf0b116fe7651ec789a"
+
+  - name: Secure-IC
+    adapter: auto
+    url: "https://www.secure-ic.fr/offres-demploi/"
+
+  - name: Apple
+    adapter: browser
+    url: "https://jobs.apple.com/fr-fr/search?location=france-FRAC"
+
+  - name: IN Groupe
+    adapter: browser
+    url: "https://careers.ingroupe.com/jobs?split_view=true&query=&country=France"
+
+  - name: STMicroelectronics
+    adapter: eightfold
+    url: "https://stmicroelectronics.eightfold.ai/careers?query=cdi&location=France&pid=563637172784099&domain=stmicroelectronics.com&sort_by=relevance&triggerGoButton=false&triggerGoButton=true"
+
+  - name: Atos
+    adapter: auto
+    urls:
+      - "https://jobs.atos.net/search/?q=&locationsearch=france"
+      - "https://jobs.atos.net/search/?q=&locationsearch=france&startrow=50"
+      - "https://jobs.atos.net/search/?q=&locationsearch=france&startrow=100"
+
+  - name: NXP
+    adapter: workday
+    url: "https://nxp.wd3.myworkdayjobs.com/careers?Location_Country=54c5b6971ffb4bf0b116fe7651ec789a"
+
+  - name: IC'Alps
+    adapter: auto
+    url: "https://www.icalps.com/fr/carrieres/"
+
+  - name: Dolphin Semiconductor
+    adapter: browser
+    url: "https://careers.dolphin-semiconductor.com/jobs?split_view=true&location=Meylan"
+
+  - name: Menta eFPGA
+    adapter: browser
+    url: "https://www.menta-efpga.com/efpga-careers/#job-offers"
+
+  - name: SCALINX
+    adapter: browser
+    url: "https://www.scalinx.com/careers/job-opportunities/"
+
+  - name: SiPearl
+    adapter: browser
+    url: "https://careers.sipearl.com/?locale=fr#jobs"
+
+  - name: Arteris
+    adapter: browser
+    url: "https://www.arteris.com/careers/open-positions/?a=b"
