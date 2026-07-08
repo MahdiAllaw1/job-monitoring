@@ -55,7 +55,7 @@ companies:
   - name: STMicroelectronics
     adapter: eightfold
     urls:
-      - "https://stmicroelectronics.eightfold.ai/careers?query=cdi&location=France&pid=563637172784099&domain=stmicroelectronics.com&sort_by=relevance"
+      - "https://stmicroelectronics.eightfold.ai/careers?query=cdi%20-%20ing%C3%A9nieur&location=France&pid=563637172801487&domain=stmicroelectronics.com&sort_by=relevance&triggerGoButton=false"
       - "https://stmicroelectronics.eightfold.ai/careers?query=ciffre&location=France&pid=563637172143969&domain=stmicroelectronics.com&sort_by=relevance&triggerGoButton=false"
     min_expected_jobs: 2
     max_api_jobs: 250
