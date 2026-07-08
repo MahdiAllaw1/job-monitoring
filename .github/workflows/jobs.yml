@@ -3,7 +3,7 @@ name: Job monitor
 on:
   schedule:
     # Twice per hour. GitHub can delay scheduled workflows, so do not rely on exact minutes.
-    - cron: "7,37 * * * *"
+    - cron: "7,27,47 * * * *"
   workflow_dispatch:
     inputs:
       notify_mode:
