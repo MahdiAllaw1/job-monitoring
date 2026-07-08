@@ -1,7 +1,7 @@
 {
   "companies": {
     "ARM": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 6,
       "last_error": null,
       "last_warning": null,
@@ -15,7 +15,7 @@
       ]
     },
     "Apple": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 20,
       "last_error": null,
       "last_warning": "Apple: only 20 detected, expected at least 21. Parser/link may need attention.",
@@ -43,16 +43,16 @@
       ]
     },
     "Arteris": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 0,
       "last_error": null,
       "last_warning": "Arteris: only 0 detected, expected at least 1. Parser/link may need attention.",
       "seen_ids": []
     },
     "Atos": {
-      "last_checked_epoch": 1783528232,
-      "last_count": 115,
-      "last_error": "Atos: RuntimeError: https://jobs.atos.net/search/?q=&locationsearch=france: TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\nnavigating to \"https://jobs.atos.net/search/?q=&locationsearch=france\", waiting until \"domcontentloaded\"\n | https://jobs.atos.net/search/?q=&locationsearch=france&startrow=50: TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\nnavigating to \"https://jobs.atos.net/search/?q=&locationsearch=france&startrow=50\", waiting until \"domcontentloaded\"\n | https://jobs.atos.net/search/?q=&locationsearch=france&startrow=100: TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\nnavigating to \"https://jobs.atos.net/search/?q=&locationsearch=france&startrow=100\", waiting until \"domcontentloaded\"\n",
+      "last_checked_epoch": 1783533510,
+      "last_count": 113,
+      "last_error": null,
       "last_warning": null,
       "seen_ids": [
         "008a88dbf07b2aa0",
@@ -61,7 +61,6 @@
         "066b8238ff744374",
         "0f3826606a26c1a4",
         "120778a350169283",
-        "192e437b5c4e20d7",
         "1ba2050a8e163058",
         "1d1ca7d9cc4d0c2b",
         "1d51a7a07280f659",
@@ -79,7 +78,6 @@
         "379e5c968a372fa4",
         "3bb05d35bcf36502",
         "3f4e17fa443719ce",
-        "3f91a3d13c4b7e63",
         "420a7044ee0b3a40",
         "46d6705252328e5a",
         "48f953968679f30e",
@@ -173,7 +171,7 @@
       ]
     },
     "Capgemini Engineering": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 9,
       "last_error": null,
       "last_warning": null,
@@ -190,7 +188,7 @@
       ]
     },
     "Dolphin Semiconductor": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 2,
       "last_error": null,
       "last_warning": null,
@@ -200,7 +198,7 @@
       ]
     },
     "IC'Alps": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 7,
       "last_error": null,
       "last_warning": null,
@@ -215,13 +213,14 @@
       ]
     },
     "IDEMIA": {
-      "last_checked_epoch": 1783527586,
-      "last_count": 47,
-      "last_error": "IDEMIA: RuntimeError: https://careers.idemia.com/search/?createNewAlert=false&q=&locationsearch=france&optionsFacetsDD_city=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=: TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\nnavigating to \"https://careers.idemia.com/search/?createNewAlert=false&q=&locationsearch=france&optionsFacetsDD_city=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=\", waiting until \"domcontentloaded\"\n | https://careers.idemia.com/search/?q=&locationsearch=france&startrow=25: TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\nnavigating to \"https://careers.idemia.com/search/?q=&locationsearch=france&startrow=25\", waiting until \"domcontentloaded\"\n",
+      "last_checked_epoch": 1783533510,
+      "last_count": 48,
+      "last_error": null,
       "last_warning": null,
       "seen_ids": [
         "064533a3b7a93838",
         "06b63402950f31da",
+        "08cd069a9313ff7d",
         "1fbca350156f939b",
         "26dcc49a029aae25",
         "26f7207eff0b071b",
@@ -270,7 +269,7 @@
       ]
     },
     "IN Groupe": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 37,
       "last_error": null,
       "last_warning": null,
@@ -315,14 +314,14 @@
       ]
     },
     "Menta eFPGA": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 0,
       "last_error": null,
       "last_warning": "Menta eFPGA: only 0 detected, expected at least 4. Parser/link may need attention.",
       "seen_ids": []
     },
     "Microchip": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 13,
       "last_error": null,
       "last_warning": null,
@@ -343,7 +342,7 @@
       ]
     },
     "NXP": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 28,
       "last_error": null,
       "last_warning": null,
@@ -379,7 +378,7 @@
       ]
     },
     "SCALINX": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 4,
       "last_error": null,
       "last_warning": null,
@@ -391,7 +390,7 @@
       ]
     },
     "STMicroelectronics": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 23,
       "last_error": null,
       "last_warning": null,
@@ -422,7 +421,7 @@
       ]
     },
     "Secure-IC": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 4,
       "last_error": null,
       "last_warning": null,
@@ -434,7 +433,7 @@
       ]
     },
     "SiPearl": {
-      "last_checked_epoch": 1783528277,
+      "last_checked_epoch": 1783533510,
       "last_count": 7,
       "last_error": null,
       "last_warning": null,
@@ -450,5 +449,5 @@
     }
   },
   "initialized": true,
-  "last_checked_epoch": 1783528277
+  "last_checked_epoch": 1783533510
 }
