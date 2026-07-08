@@ -1,23 +1,23 @@
 {
   "companies": {
     "ARM": {
-      "last_checked_epoch": 1783483031,
+      "last_checked_epoch": 1783492565,
       "last_count": 9,
       "last_error": null,
       "seen_ids": [
+        "003f5ab23bd2bbcd",
         "07c4d1ff90ffe765",
         "0884c251c092a61b",
-        "211c18a0691d08aa",
+        "0d65adda6c7645da",
         "26e46960094477ea",
         "324d7a96783b5435",
         "4ddbb6e57c042f86",
         "5b7e61758e9bcc00",
-        "7671e9de7ac6046f",
-        "b4bd4fd766c93fbc"
+        "7671e9de7ac6046f"
       ]
     },
     "Apple": {
-      "last_checked_epoch": 1783483035,
+      "last_checked_epoch": 1783492570,
       "last_count": 15,
       "last_error": null,
       "seen_ids": [
@@ -39,7 +39,7 @@
       ]
     },
     "Capgemini Engineering": {
-      "last_checked_epoch": 1783483033,
+      "last_checked_epoch": 1783492567,
       "last_count": 20,
       "last_error": null,
       "seen_ids": [
@@ -66,7 +66,7 @@
       ]
     },
     "IDEMIA": {
-      "last_checked_epoch": 1783483032,
+      "last_checked_epoch": 1783492567,
       "last_count": 25,
       "last_error": null,
       "seen_ids": [
@@ -98,7 +98,7 @@
       ]
     },
     "IN Groupe": {
-      "last_checked_epoch": 1783483035,
+      "last_checked_epoch": 1783492571,
       "last_count": 21,
       "last_error": null,
       "seen_ids": [
@@ -126,7 +126,7 @@
       ]
     },
     "Microchip": {
-      "last_checked_epoch": 1783483033,
+      "last_checked_epoch": 1783492568,
       "last_count": 13,
       "last_error": null,
       "seen_ids": [
@@ -146,7 +146,7 @@
       ]
     },
     "STMicroelectronics": {
-      "last_checked_epoch": 1783483036,
+      "last_checked_epoch": 1783492571,
       "last_count": 10,
       "last_error": null,
       "seen_ids": [
@@ -163,7 +163,7 @@
       ]
     },
     "Secure-IC": {
-      "last_checked_epoch": 1783483034,
+      "last_checked_epoch": 1783492569,
       "last_count": 10,
       "last_error": null,
       "seen_ids": [
@@ -181,5 +181,5 @@
     }
   },
   "initialized": true,
-  "last_checked_epoch": 1783483036
+  "last_checked_epoch": 1783492571
 }
