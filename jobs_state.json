@@ -1,22 +1,23 @@
 {
   "companies": {
     "ARM": {
-      "last_checked_epoch": 1783469335,
-      "last_count": 8,
+      "last_checked_epoch": 1783483031,
+      "last_count": 9,
       "last_error": null,
       "seen_ids": [
         "07c4d1ff90ffe765",
         "0884c251c092a61b",
+        "211c18a0691d08aa",
         "26e46960094477ea",
         "324d7a96783b5435",
         "4ddbb6e57c042f86",
         "5b7e61758e9bcc00",
-        "e2c8c0986f75f9d9",
-        "f2f983da1ea3d9fe"
+        "7671e9de7ac6046f",
+        "b4bd4fd766c93fbc"
       ]
     },
     "Apple": {
-      "last_checked_epoch": 1783469338,
+      "last_checked_epoch": 1783483035,
       "last_count": 15,
       "last_error": null,
       "seen_ids": [
@@ -38,7 +39,7 @@
       ]
     },
     "Capgemini Engineering": {
-      "last_checked_epoch": 1783469336,
+      "last_checked_epoch": 1783483033,
       "last_count": 20,
       "last_error": null,
       "seen_ids": [
@@ -65,39 +66,39 @@
       ]
     },
     "IDEMIA": {
-      "last_checked_epoch": 1783469336,
+      "last_checked_epoch": 1783483032,
       "last_count": 25,
       "last_error": null,
       "seen_ids": [
         "1fbca350156f939b",
-        "26f7207eff0b071b",
-        "2755b83eba8eb7ed",
+        "26dcc49a029aae25",
         "2c02fa8043a8dca2",
         "31b182f4be383774",
         "320c2c93d0cdc6a2",
-        "5713e9bd3baf750c",
+        "34d41ab6a25c4b7b",
+        "446626f0f136e71c",
+        "4598264310d29ffb",
         "576b0d9e36b6eb1c",
         "59fe9a79936c46b7",
-        "62e549bd766dab71",
-        "6b2b51b125c237ab",
+        "5d76e5c91972881d",
         "797ab4a99adda2ed",
-        "808db3f6c1aee9d1",
-        "8607bec0b9f2d8c0",
+        "7c155ca7608b8dec",
         "86e6018b4e66584e",
         "9fe61cdfd1770793",
         "b012045105a141bc",
+        "b2a443a418529fac",
         "b8cc6da806a3ea0e",
-        "b95184d31167446d",
         "c0da07519be428d7",
-        "d85078c470859983",
+        "c18c4fa2042d7f7f",
+        "c320247692588161",
         "de23c3000975a7c3",
+        "de88a6bfae69ebd8",
         "eefa404e77f75284",
-        "efa99d0d937e091b",
-        "fb6b6026e27f2c8d"
+        "efa99d0d937e091b"
       ]
     },
     "IN Groupe": {
-      "last_checked_epoch": 1783469339,
+      "last_checked_epoch": 1783483035,
       "last_count": 21,
       "last_error": null,
       "seen_ids": [
@@ -125,7 +126,7 @@
       ]
     },
     "Microchip": {
-      "last_checked_epoch": 1783469337,
+      "last_checked_epoch": 1783483033,
       "last_count": 13,
       "last_error": null,
       "seen_ids": [
@@ -145,7 +146,7 @@
       ]
     },
     "STMicroelectronics": {
-      "last_checked_epoch": 1783469340,
+      "last_checked_epoch": 1783483036,
       "last_count": 10,
       "last_error": null,
       "seen_ids": [
@@ -162,7 +163,7 @@
       ]
     },
     "Secure-IC": {
-      "last_checked_epoch": 1783469338,
+      "last_checked_epoch": 1783483034,
       "last_count": 10,
       "last_error": null,
       "seen_ids": [
@@ -180,5 +181,5 @@
     }
   },
   "initialized": true,
-  "last_checked_epoch": 1783469340
+  "last_checked_epoch": 1783483036
 }
