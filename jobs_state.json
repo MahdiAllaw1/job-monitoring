@@ -1,7 +1,7 @@
 {
   "companies": {
     "ARM": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 6,
       "last_error": null,
       "last_warning": null,
@@ -15,7 +15,7 @@
       ]
     },
     "Apple": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 20,
       "last_error": null,
       "last_warning": "Apple: only 20 detected, expected at least 21. Parser/link may need attention.",
@@ -43,14 +43,14 @@
       ]
     },
     "Arteris": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 0,
       "last_error": null,
       "last_warning": "Arteris: only 0 detected, expected at least 1. Parser/link may need attention.",
       "seen_ids": []
     },
     "Atos": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 113,
       "last_error": null,
       "last_warning": null,
@@ -171,7 +171,7 @@
       ]
     },
     "Capgemini Engineering": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 10,
       "last_error": null,
       "last_warning": null,
@@ -189,7 +189,7 @@
       ]
     },
     "Dolphin Semiconductor": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 2,
       "last_error": null,
       "last_warning": null,
@@ -199,7 +199,7 @@
       ]
     },
     "IC'Alps": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 7,
       "last_error": null,
       "last_warning": null,
@@ -214,7 +214,7 @@
       ]
     },
     "IDEMIA": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 50,
       "last_error": null,
       "last_warning": null,
@@ -272,7 +272,7 @@
       ]
     },
     "IN Groupe": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 37,
       "last_error": null,
       "last_warning": null,
@@ -317,14 +317,14 @@
       ]
     },
     "Menta eFPGA": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 0,
       "last_error": null,
       "last_warning": "Menta eFPGA: only 0 detected, expected at least 4. Parser/link may need attention.",
       "seen_ids": []
     },
     "Microchip": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 13,
       "last_error": null,
       "last_warning": null,
@@ -345,7 +345,7 @@
       ]
     },
     "NXP": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 33,
       "last_error": null,
       "last_warning": null,
@@ -386,7 +386,7 @@
       ]
     },
     "SCALINX": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 4,
       "last_error": null,
       "last_warning": null,
@@ -398,7 +398,7 @@
       ]
     },
     "STMicroelectronics": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 24,
       "last_error": null,
       "last_warning": null,
@@ -430,7 +430,7 @@
       ]
     },
     "Secure-IC": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 4,
       "last_error": null,
       "last_warning": null,
@@ -442,7 +442,7 @@
       ]
     },
     "SiPearl": {
-      "last_checked_epoch": 1784063404,
+      "last_checked_epoch": 1784067129,
       "last_count": 7,
       "last_error": null,
       "last_warning": null,
@@ -458,5 +458,5 @@
     }
   },
   "initialized": true,
-  "last_checked_epoch": 1784063404
+  "last_checked_epoch": 1784067129
 }
