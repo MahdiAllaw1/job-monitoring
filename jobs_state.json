@@ -1,7 +1,7 @@
 {
   "companies": {
     "ARM": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 4,
       "last_error": null,
       "last_warning": "ARM: only 4 detected, expected at least 6. Parser/link may need attention.",
@@ -13,7 +13,7 @@
       ]
     },
     "Apple": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 20,
       "last_error": null,
       "last_warning": "Apple: only 20 detected, expected at least 21. Parser/link may need attention.",
@@ -41,14 +41,14 @@
       ]
     },
     "Arteris": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 0,
       "last_error": null,
       "last_warning": "Arteris: only 0 detected, expected at least 1. Parser/link may need attention.",
       "seen_ids": []
     },
     "Atos": {
-      "last_checked_epoch": 1784475883,
+      "last_checked_epoch": 1784479886,
       "last_count": 110,
       "last_error": "Atos: RuntimeError: https://jobs.atos.net/search/?q=&locationsearch=france: TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\nnavigating to \"https://jobs.atos.net/search/?q=&locationsearch=france\", waiting until \"domcontentloaded\"\n | https://jobs.atos.net/search/?q=&locationsearch=france&startrow=50: TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\nnavigating to \"https://jobs.atos.net/search/?q=&locationsearch=france&startrow=50\", waiting until \"domcontentloaded\"\n | https://jobs.atos.net/search/?q=&locationsearch=france&startrow=100: TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\nnavigating to \"https://jobs.atos.net/search/?q=&locationsearch=france&startrow=100\", waiting until \"domcontentloaded\"\n",
       "last_warning": null,
@@ -166,7 +166,7 @@
       ]
     },
     "Capgemini Engineering": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 10,
       "last_error": null,
       "last_warning": null,
@@ -184,7 +184,7 @@
       ]
     },
     "Dolphin Semiconductor": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 2,
       "last_error": null,
       "last_warning": null,
@@ -194,7 +194,7 @@
       ]
     },
     "IC'Alps": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 7,
       "last_error": null,
       "last_warning": null,
@@ -209,7 +209,7 @@
       ]
     },
     "IDEMIA": {
-      "last_checked_epoch": 1784475238,
+      "last_checked_epoch": 1784479247,
       "last_count": 50,
       "last_error": "IDEMIA: RuntimeError: https://careers.idemia.com/search/?createNewAlert=false&q=&locationsearch=france&optionsFacetsDD_city=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=: TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\nnavigating to \"https://careers.idemia.com/search/?createNewAlert=false&q=&locationsearch=france&optionsFacetsDD_city=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=\", waiting until \"domcontentloaded\"\n | https://careers.idemia.com/search/?q=&locationsearch=france&startrow=25: TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\nnavigating to \"https://careers.idemia.com/search/?q=&locationsearch=france&startrow=25\", waiting until \"domcontentloaded\"\n",
       "last_warning": null,
@@ -267,7 +267,7 @@
       ]
     },
     "IN Groupe": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 37,
       "last_error": null,
       "last_warning": null,
@@ -312,14 +312,14 @@
       ]
     },
     "Menta eFPGA": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 0,
       "last_error": null,
       "last_warning": "Menta eFPGA: only 0 detected, expected at least 4. Parser/link may need attention.",
       "seen_ids": []
     },
     "Microchip": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 13,
       "last_error": null,
       "last_warning": null,
@@ -340,7 +340,7 @@
       ]
     },
     "NXP": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 31,
       "last_error": null,
       "last_warning": null,
@@ -379,7 +379,7 @@
       ]
     },
     "SCALINX": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 4,
       "last_error": null,
       "last_warning": null,
@@ -391,7 +391,7 @@
       ]
     },
     "STMicroelectronics": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 24,
       "last_error": null,
       "last_warning": null,
@@ -423,7 +423,7 @@
       ]
     },
     "Secure-IC": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 4,
       "last_error": null,
       "last_warning": null,
@@ -435,7 +435,7 @@
       ]
     },
     "SiPearl": {
-      "last_checked_epoch": 1784475925,
+      "last_checked_epoch": 1784479926,
       "last_count": 7,
       "last_error": null,
       "last_warning": null,
@@ -451,5 +451,5 @@
     }
   },
   "initialized": true,
-  "last_checked_epoch": 1784475925
+  "last_checked_epoch": 1784479926
 }
